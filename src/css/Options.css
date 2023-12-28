@@ -1,0 +1,35 @@
+.btn-panel-nav
+{
+    float: right;
+    padding: 20px;
+}
+
+.lightmode-btn-dark, .game-btn-dark, .web-btn-dark
+{
+    border: 0px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color:rgb(25, 25, 25);
+    cursor: pointer;
+}
+
+.lightmode-btn-dark:hover, .game-btn-dark:hover, .web-btn-dark:hover
+{
+    background-color:rgb(117, 117, 117);
+}
+
+.lightmode-btn-light, .game-btn-light, .web-btn-light
+{
+    border: 0px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color:rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.lightmode-btn-light:hover, .game-btn-light:hover, .web-btn-light:hover
+{
+    background-color:rgb(220, 220, 220);
+}

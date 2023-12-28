@@ -1,0 +1,94 @@
+.web-title-sections
+{
+    color: #FF6D6D;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: left;
+}
+
+.web-img-proyect
+{
+    border-radius: 35px;
+    width: 85%;
+    height: 85%;
+}
+
+.card-title
+{
+    color: #FFF;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: left;
+}
+
+.card-text
+{
+    color: #FFF;
+    text-align: left;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.card
+{
+    background-color: unset;
+    border-radius: 23px;
+    border: 1px solid #FF6D6D;
+    box-shadow: 0px 0px 15px 1px rgba(255, 109, 109, 0.40);
+    min-height: 280px;
+}
+
+.web-btn-proj
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: #FF6D6D;
+    display: inline;
+    transition: all ease-in-out 150ms;
+}
+
+.web-btn-proj:hover
+{
+    box-shadow: 0px 0px 7px 1px rgba(255, 109, 109, 0.80);
+    transform: scale(1.05);
+}
+
+.num-page
+{
+    color: #FFF;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.section-btns
+{
+    display: inline;
+}
+
+.web-img-icon
+{
+    max-width: 20px;
+    max-height: 20px;
+    width: auto; /* Para que la imagen no se estire más allá del ancho máximo */
+    height: auto; /* Para que la imagen no se estire más allá de la altura máxima */
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.web-icon-link, .web-icon-yt
+{
+    margin-left: 3.5px;
+    margin-right: 3.5px;
+    transition: all ease-in-out 100ms;
+}
+
+.web-icon-link:hover, .web-icon-yt:hover
+{
+    filter: brightness(1.8);
+    transform: scale(1.09);
+}
